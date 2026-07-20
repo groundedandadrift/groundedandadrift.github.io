@@ -1,26 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Grounded and Adrift | Perspectives on Deliberate Living</title>
-    <style>
-        /* --- RESET & VARIABLES --- */
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        :root {
-            --bg-color: #fdfcfb;
-            --text-color: #2b2d2f;
-            --primary-color: #2c423b; /* Muted Olive/Sage */
-            --secondary-color: #5a6568; /* Slate Grey */
-            --accent-color: #dfd5c6; /* Sand */
-            --card-bg: #ffffff;
-            --border-color: #e5e0d8;
-            --font-serif: 'Georgia', serif;
-            --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
         }
 
         body {
